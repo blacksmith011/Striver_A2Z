@@ -1,2 +1,4 @@
-package Demo;public class Deque1 {
+package Demo;
+
+public class Deque1 {
 }
